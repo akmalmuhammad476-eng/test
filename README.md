@@ -7,4 +7,4 @@ This Python program accepts a user-provided sentence and calculates both the tot
 1. Open the terminal in PyCharm or your command line inside the project directory.
 2. Run the program using:
    ```bash
-   python main.py
+   python main.py"# test" 
